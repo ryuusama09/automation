@@ -1,0 +1,22 @@
+userName: harshshah_mZjhDT
+accessKey: yRR1EUXh2xzEy3ymnzby
+platforms:
+  - deviceName: Samsung Galaxy S23 Ultra
+    osVersion: 13.0
+    browserName: chrome
+    deviceOrientation: portrait
+  - deviceName: iPhone 13
+    osVersion: 17
+    browserName: safari
+    deviceOrientation: portrait
+  - os: Windows
+    osVersion: 10
+    browserName: Chrome
+    browserVersion: latest
+browserstackLocal: true
+buildName: bstack-build-y
+buildIdentifier: ${BUILD_NUMBER}
+projectName: BrowserStack Sample
+debug: true
+networkLogs: true
+consoleLogs: info
